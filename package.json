@@ -1,0 +1,22 @@
+{
+  "name": "tdd_excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanoComputing/TDD_excercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanoComputing/TDD_excercise/issues"
+  },
+  "homepage": "https://github.com/KanoComputing/TDD_excercise#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
